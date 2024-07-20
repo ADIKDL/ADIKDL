@@ -10,7 +10,7 @@
 
 ###
 
-<h5 align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Flutter<br>🎯 Goals: To be  a Full Stack Developer</h5>
+<h5 align="left">Hey there! I’m  your friendly neighborhood Backend Developer from India. When I’m not busy turning coffee into code, I’m on a mission to transform complex problems into elegant solutions.<br><br>By day, I wield my superpowers in  Express.js and React to fight bugs and build high-quality web applications. By night, I dream in code and occasionally think about what would happen  if a semicolon went missing. (Spoiler: It’s not pretty)<br><br>With a knack for creating seamless and efficient backend systems, I strive to make the digital world a better place, one API at a time. My secret weapon? A blend of technical expertise, a dash of creativity, and a sprinkle of humor. After all, if you can’t laugh at a good 404 error, you’re in the wrong business!<br><br>Fun fact: Why do programmers prefer dark mode? Because light attracts bugs!<br><br>Let’s code something amazing together!</h5>
 
 ###
 
@@ -23,7 +23,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="40" alt="nestjs logo"  />
   <img width="12" />
