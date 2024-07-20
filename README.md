@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h5 align="left">A motivated Backend Developer seeking to utilize my technical knowledge and problem-solving skills to create successful implementations and high-quality solutions that address real-world business needs and improve customer experience. Aiming to contribute my initiative and dedication to achieving organizational objectives and making a positive impact.</h5>
+<h5 align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Flutter<br>🎯 Goals: To be  a Full Stack Developer</h5>
 
 ###
 
